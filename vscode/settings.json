@@ -1,12 +1,13 @@
 {
     "python.autoComplete.extraPaths": [
-        "/home/myungw00/ROS/catkin_ws/devel/lib/python3/dist-packages",
-        "/home/myungw00/ROS/ws_livox/devel/lib/python3/dist-packages",
+        "/home/koo/ROS/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/koo/ROS/ws_livox/devel/lib/python3/dist-packages",
         "/opt/ros/noetic/lib/python3/dist-packages"
     ],
     "python.analysis.extraPaths": [
-        "/home/myungw00/ROS/catkin_ws/devel/lib/python3/dist-packages",
-        "/home/myungw00/ROS/ws_livox/devel/lib/python3/dist-packages",
+        "/home/koo/ROS/catkin_ws/devel/lib/python3/dist-packages",
+        "/home/koo/ROS/ws_livox/devel/lib/python3/dist-packages",
         "/opt/ros/noetic/lib/python3/dist-packages"
     ]
 }
+
